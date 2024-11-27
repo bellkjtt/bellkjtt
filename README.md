@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="35%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="40%" />
   </a>
 </p>
 <p align="center"> 
