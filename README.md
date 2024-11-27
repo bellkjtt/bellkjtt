@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!-- 이미지를 한 줄에 나란히 배치하고, 각 이미지에 링크를 추가 -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="32%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="40%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="32%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="40%" />
   </a>
   
 </p>
-<p>
+<p align="center"> 
   <a href="https://github.com/bellkjtt/100_AI_Paper_Study_">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_" width="32%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_" width="100%" />
   </a>
 </p>
 
