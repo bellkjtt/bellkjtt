@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="35%" />
   </a>
- 
 </p>
 <p align="center"> 
   <a href="https://github.com/bellkjtt/100_AI_Paper_Study_">
