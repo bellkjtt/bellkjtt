@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> 
   <a href="https://github.com/bellkjtt/100_AI_Paper_Study_">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_" width="49%" />
   </a>
   <a href="https://github.com/bellkjtt/Project-Budrami">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=Project-Budrami" width="49.9%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=Project-Budrami" width="49%" />
   </a>
 </p>
