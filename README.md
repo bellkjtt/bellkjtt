@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![JeongTae's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![JeongTae's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_
 )](https://github.com/bellkjtt/100_AI_Paper_Study_)
