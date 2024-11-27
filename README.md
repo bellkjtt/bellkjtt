@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="30%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="50%" />
   </a>
 </p>
 <p align="center"> 
   <a href="https://github.com/bellkjtt/100_AI_Paper_Study_">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_" width="40%" />
   </a>
 </p>
 
