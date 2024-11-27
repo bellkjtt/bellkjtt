@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=bellkjtt&locale=kr&count_private=true&show_icons=true&theme=transparent" width="56%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="43%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact" width="42%" />
   </a>
 </p>
 <p align="center"> 
