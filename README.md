@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![JeongTae's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellkjtt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellkjtt&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bellkjtt&repo=100_AI_Paper_Study_
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/bellkjtt/100_AI_Paper_Study_)
